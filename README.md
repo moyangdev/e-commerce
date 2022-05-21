@@ -53,6 +53,7 @@ A link to the [code](https://github.com/moyangdev/e-commerce):
 ```
 https://github.com/moyangdev/e-commerce
 ```
-A link to the [demo video]():
+A link to the [demo video](https://drive.google.com/file/d/1F7g9QLJJ_bnDNXVpO0NTpFIw5039gs9S/view):
 ```
+https://drive.google.com/file/d/1F7g9QLJJ_bnDNXVpO0NTpFIw5039gs9S/view
 ```
